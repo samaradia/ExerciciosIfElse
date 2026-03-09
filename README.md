@@ -14,4 +14,4 @@ O programa define um número inteiro e verifica o resto da divisão por 2.
 - Se o resto for **0** → o número é **par**
 - Caso contrário → o número é **ímpar**
 
-## 💻 Exemplo de saída
+
